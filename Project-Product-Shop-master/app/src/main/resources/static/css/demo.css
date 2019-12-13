@@ -1,0 +1,120 @@
+
+
+.bg-image-index {
+    background-image: url('https://ld-wp73.template-help.com/wordpress/prod_19723/v1/wp-content/uploads/2019/07/bg-22.png')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-home {
+    background-image: url('http://corillomagazine.com/home.html/wp-content/uploads/2013/11/deadmau5-Wallpaper.png')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-login {
+    background-image: url('https://themusicessentials.com/wp-content/uploads/2016/06/marshmello-tiesto-edc-las-vegas.jpg')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-register {
+    background-image: url('https://ak4.picdn.net/shutterstock/videos/1026157724/thumb/1.jpg')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-bcg1 {
+    background-image: url('http://cdn.wallpaperhi.com/1280x1024/20120322/headphones%20music%201280x1024%20wallpaper_www.wallpaperhi.com_46.jpg')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-bcg2 {
+    background-image: url('https://images.unsplash.com/photo-1519669556878-63bdad8a1a49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-offers {
+    background-image: url('https://st4.depositphotos.com/13798620/22793/v/600/depositphotos_227936592-stock-video-music-background-dj-night-club.jpg')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-profile {
+    background-image: url('https://ak3.picdn.net/shutterstock/videos/26060543/thumb/1.jpg')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-cart {
+    background-image: url('https://image.freepik.com/foto-gratis/musica-pulso-corazon-fondo-negro-minimalismo_93853-253.jpg')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-add {
+    background-image: url('http://i.imgur.com/GZKgCpk.png')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.bg-image-delete {
+    background-image: url('https://wallpapercave.com/wp/Hglzzrc.jpg')!important;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:1000px;
+    position: relative;
+}
+.nothing{
+    font-family: "nothing you could do";
+    font-size: 150px;
+    text-align: center;
+    color: white;
+}
+.righteous{
+    font-family: "righteous";
+    font-size: 40px;
+    color: black;
+}
+.base{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+.centerText{
+    position: relative;
+    top: 50%;
+}
+
+.textForm{
+    font-family: "girassol";
+    font-size: 32px;
+    color: white;
+}
+.textBorderYellow{
+    font-size: 30px;
+    color: #fdfaff;
+}

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09ad8404-d81e-471f-b6ae-41c84a60f9d9" name="Default Changelist" comment="Fixed &#10;&#10;Category Edit front-end validation" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="product_shop_db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UnT4fScn05jlJfYJ8PaGZdxgU6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project-Product-Shop-master\Project-Product-Shop-master\app\src\main\resources\templates\music" />
+      <recent name="D:\Project-Product-Shop-master\Project-Product-Shop-master\app\src\main\java\org\softuni\productshop\service" />
+      <recent name="D:\Project-Product-Shop-master\Project-Product-Shop-master\app\src\main\java\org\softuni\productshop\domain\models\view" />
+      <recent name="D:\Project-Product-Shop-master\Project-Product-Shop-master\app\src\main\resources\static\img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.softuni.productshop.web.controllers" />
+      <recent name="org.softuni.productshop.domain.models.view" />
+      <recent name="org.softuni.productshop.error" />
+      <recent name="org.softuni.productshop.repository" />
+      <recent name="org.softuni.productshop.domain.models.binding" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Repositories\GitHub\Project-Product-Shop\app\src\main\resources\templates\user" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProductshopApplication">
+    <configuration name="All in productshop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="productshop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="productshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.softuni.productshop.integration.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.softuni.productshop.integration.services" />
+      <option name="MAIN_CLASS_NAME" value="org.softuni.productshop.integration.services.ProductServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTests.createProduct_whenNull_throw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="productshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.softuni.productshop.integration.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.softuni.productshop.integration.services" />
+      <option name="MAIN_CLASS_NAME" value="org.softuni.productshop.integration.services.ProductServiceTests" />
+      <option name="METHOD_NAME" value="createProduct_whenNull_throw" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTests.createProduct_whenValid_productCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="productshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.softuni.productshop.integration.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.softuni.productshop.integration.services" />
+      <option name="MAIN_CLASS_NAME" value="org.softuni.productshop.integration.services.ProductServiceTests" />
+      <option name="METHOD_NAME" value="createProduct_whenValid_productCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="productshop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.softuni.productshop.ProductshopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductServiceTests.createProduct_whenValid_productCreated" />
+        <item itemvalue="JUnit.ProductServiceTests" />
+        <item itemvalue="JUnit.ProductServiceTests.createProduct_whenNull_throw" />
+        <item itemvalue="JUnit.All in productshop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09ad8404-d81e-471f-b6ae-41c84a60f9d9" name="Default Changelist" comment="" />
+      <created>1554892467937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554892467937</updated>
+      <workItem from="1554892481557" duration="5044000" />
+      <workItem from="1554900055669" duration="6170000" />
+      <workItem from="1554971986550" duration="2757000" />
+      <workItem from="1575991172878" duration="73776000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added &#10;&#10;User Register front-end validation">
+      <created>1554900468503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554900468503</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added &#10;&#10;User Edit front-end validation">
+      <created>1554903692373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554903692373</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed &#10;&#10;Category Add front-end validation">
+      <created>1554905251321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554905251321</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed &#10;&#10;Category Edit front-end validation">
+      <created>1554906232318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554906232318</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added &#10;&#10;User Register front-end validation" />
+    <MESSAGE value="Added &#10;&#10;User Edit front-end validation" />
+    <MESSAGE value="Fixed &#10;&#10;Category Add front-end validation" />
+    <MESSAGE value="Fixed &#10;&#10;Category Edit front-end validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed &#10;&#10;Category Edit front-end validation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/softuni/productshop/service/ProductServiceImpl.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/softuni/productshop/service/UserServiceImpl.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/softuni/productshop/service/UserServiceImpl.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/softuni/productshop/service/ProductServiceImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/softuni/productshop/integration/services/ProductServiceTests.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/softuni/productshop/integration/services/ProductServiceTests.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/softuni/productshop/service/ProductServiceImpl.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/productshop$All_in_productshop.ic" NAME="All in productshop Coverage Results" MODIFIED="1554978577700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
